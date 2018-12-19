@@ -29,18 +29,26 @@ if a > 50:
 
 turtle.forward(a)
 turtle.left(30)
+
 parallel_move()
+
 turtle.left(60)
 turtle.forward(a)
 turtle.right(60)
+
 parallel_move()
+
 turtle.left(150)
 turtle.forward(a)
 turtle.right(150)
+
 parallel_move()
+
 turtle.left(240)
 turtle.forward(a)
 turtle.right(240)
+
 turtle.forward(c)
 turtle.right(30)
+
 draw_square(a)
